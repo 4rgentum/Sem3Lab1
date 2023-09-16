@@ -2,6 +2,6 @@
 
 int main() {
   std::cout << "Hello World!\n";
-  std::cout << 2 * 3 - 1;
+  std::cout << 2 * 3;
 }
 // kmsdfgfklgjlkfagj
