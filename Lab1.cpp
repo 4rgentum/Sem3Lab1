@@ -53,6 +53,7 @@ namespace Lab1 {
       }
     } catch (const std::exception &e) {
       std::cerr << "A matrix input error occurred: " << e.what() << std::endl;
+      throw;
     }
   }
 
